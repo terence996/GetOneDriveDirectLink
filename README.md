@@ -5,7 +5,12 @@
 # 马上使用
 原作者： https://mapaler.github.io/GetOneDriveDirectLink
 
-SpectreGao美化版： https://SpectreGao.github.io/GetOneDriveDirectLink
+SpectreGao美化版： https://SpectreGao.github.io/GetOneDriveDirectLink_html
+
+SpectreGao Vue3版： https://SpectreGao.github.io/GetOneDriveDirectLink
+
+SpectreGao Vue3版源代码： https://SpectreGao.github.io/GetOneDriveDirectLink_SoucreCode
+
 
 > 因为使用官方 API 直接访问 onedrive.live.com 选择文件，因此可能需要翻墙。
 
