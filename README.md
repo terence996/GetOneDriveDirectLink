@@ -1,6 +1,5 @@
-获取OneDrive直链
+获取OneDrive直链 - SpectreGao 美化版
 ===========
-本应用的目的是为了**批量**获取 OneDrive 直链，方便在其他站点外链。前身为[提取OneDrive直链地址工具](http://bbs.comicdd.com/thread-354826-1-1.html)的网页版，因为原来的工具失效了，软件版也不是那么好用了，因此决定使用 OneDrive 官方 SDK 来进行获取，确保不失效。 
 
 # 马上使用
 [原作者] Mapaler 枫谷剑仙： https://mapaler.github.io/GetOneDriveDirectLink
@@ -9,8 +8,13 @@ SpectreGao Vue3版： https://SpectreGao.github.io/GetOneDriveDirectLink
 
 SpectreGao Vue3版源代码： https://SpectreGao.github.io/GetOneDriveDirectLink_SoucreCode
 
-SpectreGao美化版： https://SpectreGao.github.io/GetOneDriveDirectLink_html
+SpectreGao 美化版： https://SpectreGao.github.io/GetOneDriveDirectLink_html
 > 基于 原作者 版本进行修改，对页面进行整理排版，重写了样式
+
+=============== 以下部分为原作者编写的内容 ===============
+
+本应用的目的是为了**批量**获取 OneDrive 直链，方便在其他站点外链。前身为[提取OneDrive直链地址工具](http://bbs.comicdd.com/thread-354826-1-1.html)的网页版，因为原来的工具失效了，软件版也不是那么好用了，因此决定使用 OneDrive 官方 SDK 来进行获取，确保不失效。 
+
 
 > 因为使用官方 API 直接访问 onedrive.live.com 选择文件，因此可能需要翻墙。
 
