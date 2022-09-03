@@ -5,12 +5,12 @@
 # 马上使用
 [原作者] Mapaler 枫谷剑仙： https://mapaler.github.io/GetOneDriveDirectLink
 
-SpectreGao美化版： https://SpectreGao.github.io/GetOneDriveDirectLink_html
-
 SpectreGao Vue3版： https://SpectreGao.github.io/GetOneDriveDirectLink
 
 SpectreGao Vue3版源代码： https://SpectreGao.github.io/GetOneDriveDirectLink_SoucreCode
 
+SpectreGao美化版： https://SpectreGao.github.io/GetOneDriveDirectLink_html
+> 基于 原作者 版本进行修改，对页面进行整理排版，重写了样式
 
 > 因为使用官方 API 直接访问 onedrive.live.com 选择文件，因此可能需要翻墙。
 
