@@ -3,7 +3,7 @@
 本应用的目的是为了**批量**获取 OneDrive 直链，方便在其他站点外链。前身为[提取OneDrive直链地址工具](http://bbs.comicdd.com/thread-354826-1-1.html)的网页版，因为原来的工具失效了，软件版也不是那么好用了，因此决定使用 OneDrive 官方 SDK 来进行获取，确保不失效。 
 
 # 马上使用
-原作者： https://mapaler.github.io/GetOneDriveDirectLink
+[原作者] Mapaler 枫谷剑仙： https://mapaler.github.io/GetOneDriveDirectLink
 
 SpectreGao美化版： https://SpectreGao.github.io/GetOneDriveDirectLink_html
 
