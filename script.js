@@ -228,7 +228,7 @@ function launchOneDrivePicker(action = "query") {
 	S_Alert("正在等待API返回数据");
 	outinfo.innerHTML = "正在等待API返回数据";
 	var odOptions = {
-		clientId: "7825abd8-ef59-4a80-865e-07ea1784d20c",
+		clientId: "1f3b468e-20f0-432b-851c-94782d4bfeae",
 		action: action, //share | download | query
 		multiSelect: true,
 		openInNewWindow: true,
